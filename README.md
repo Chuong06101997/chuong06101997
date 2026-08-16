@@ -53,10 +53,7 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 - Jupyter Notebook
 - Git / GitHub
 
-### Business Intelligence
-- Power BI
-- DAX
-- Excel
+
 
 ### Data
 - Data Cleaning
