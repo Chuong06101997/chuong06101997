@@ -62,6 +62,7 @@ Analysis: Tested product mix, regional effects, discounting, and customer-segmen
 Insight: 60.8% of the Q4 profit decline was traceable to a small number of large, deeply discounted transactions, including an 8–10 transaction Binders cluster accounting for 96.6% of the sub-category's decline. A customer-segment finding weakened by 54.1% after large-transaction outliers were excluded.
 
 Action: Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
+
 [View Project →]([https://github.com/...](https://github.com/Chuong06101997/Profitability-Improvement-Analysis-Superstore-Dataset/blob/main/readme.md)) 
 
 ### 02. Customer Churn Prediction & Profit Optimization         
