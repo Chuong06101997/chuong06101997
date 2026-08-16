@@ -1,4 +1,86 @@
-## Hi there 👋
+# Trần Văn Thành Chương
+
+**Data Analyst | SQL · Python · Power BI · Statistics**
+
+---
+
+## About Me
+
+[Phần giới thiệu bản thân]
+
+## Skills
+
+### Analytics
+- SQL
+- Python
+- Statistics
+
+### Business Intelligence
+- Power BI
+- DAX
+- Excel
+
+### Data
+- Data Cleaning
+- Data Validation
+- Data Modeling
+- ETL
+
+### Predictive Analytics
+- Logistic Regression
+- Machine Learning
+
+## Selected Projects
+
+### 01. Sales Performance & Profitability Analysis
+**Power BI · DAX · Excel**
+
+[Mô tả ngắn]
+
+### 02. Telecom Churn Profit Optimization
+**Python · Statistics · Machine Learning**
+
+[Mô tả ngắn]
+
+### 03. Marketing Budget Optimization
+**Python · Expected Value**
+
+[Mô tả ngắn]
+
+### 04. F&B Product Innovation Intelligence
+**Python · Statistics · Consumer Analytics**
+
+[Mô tả ngắn]
+
+### 05. Sales Volatility & Promotion Effectiveness
+**Python · Statistics · Forecasting**
+
+[Mô tả ngắn]
+
+### 06. End-to-End ETL Pipeline
+**Python · SQL · MySQL · Data Engineering**
+
+[Mô tả ngắn]
+
+## Analytical Approach
+
+Business Question  
+↓  
+Data Validation  
+↓  
+Exploratory Analysis  
+↓  
+Statistical / Analytical Testing  
+↓  
+Insight  
+↓  
+Business Recommendation
+
+## Contact
+
+- Email
+- LinkedIn
+- GitHub
 
 <!--
 **Chuong06101997/chuong06101997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
