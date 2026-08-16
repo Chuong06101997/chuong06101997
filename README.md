@@ -6,7 +6,11 @@
 
 ## About Me
 
-[Phần giới thiệu bản thân]
+I started my career in food technology, working in quality control where I was responsible for sampling and evaluating food products against quality standards. Over time, I realized that I wanted to work closer to business problems and develop stronger skills in problem-solving, communication, and decision-making.
+
+Data Analytics became a natural intersection of the areas I was looking for: quantitative thinking, statistical reasoning, and business context. It also changed how I think about data. Rather than assuming a dataset is sufficient simply because it is available, I want to understand what decision the analysis supports, whether the data can actually answer the question, and what sources of bias or uncertainty may affect the conclusion.
+
+My goal is to continuously improve the frameworks I use for analysis, reduce avoidable analytical errors, and provide stakeholders with evidence they can use to make better-informed decisions.
 
 ## Skills
 
