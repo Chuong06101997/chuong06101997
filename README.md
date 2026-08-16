@@ -136,9 +136,8 @@ Business Recommendation
 
 ## Contact
 
-- Email
-- LinkedIn
-- GitHub
+- Email: tranchuong06101997@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-tr%E1%BA%A7n-9a5b54348/
 
 <!--
 **Chuong06101997/chuong06101997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
