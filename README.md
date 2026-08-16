@@ -92,7 +92,7 @@ Actionable recommendation: Recommended not prioritizing product development base
 
 
 
-### 05. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS | Python | Statistical Testing | Forecasting                                          github.com/Chuong06101997/Sales-Volatility-Promotion-Effectiveness-Analytics
+### 05. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS | Python | Statistical Testing | Forecasting                                         
  
 Context: Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
 
