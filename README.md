@@ -67,10 +67,12 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 ## Selected Projects
 
-### 01. Sales Performance & Profitability Analysis
-**Power BI · DAX · Excel**
+### 01. Sales Performance & Profitability Root Cause Analysis
 
-[Mô tả ngắn]
+Context: Investigated a $2.3M, 9,994-row retail dataset where sales and profit increased while profit margin declined, identifying Q4-2017 vs Q4-2016 as the period driving the margin deterioration.
+Analysis: Tested product mix, regional effects, discounting, and customer-segment explanations, then stress-tested findings across transaction levels and outlier treatments.
+Insight: 60.8% of the Q4 profit decline was traceable to a small number of large, deeply discounted transactions, including an 8–10 transaction Binders cluster accounting for 96.6% of the sub-category's decline. A customer-segment finding weakened by 54.1% after large-transaction outliers were excluded.
+Action: Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
 
 ### 02. Telecom Churn Profit Optimization
 **Python · Statistics · Machine Learning**
