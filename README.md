@@ -14,8 +14,6 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 ## Skills
 
-
-
 ### Analytics
 - SQL
 - Python
@@ -30,7 +28,7 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 - Data Visualization
 - Dashboard Development
 
-### Data Engineering / SQL
+### Data Engineering
 - SQL
 - ETL / Data Transformation
 - Data Modeling
@@ -52,18 +50,6 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 - Google Sheets
 - Jupyter Notebook
 - Git / GitHub
-
-
-
-### Data
-- Data Cleaning
-- Data Validation
-- Data Modeling
-- ETL
-
-### Predictive Analytics
-- Logistic Regression
-- Machine Learning
 
 ## Selected Projects
 
