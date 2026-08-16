@@ -85,12 +85,7 @@ Analysis: Estimated churn probability for 7,043 customers and integrated it with
 
 Business Action: Prioritized retention for customers with positive Expected Profit, reducing projected retention costs by $7,280 while improving budget allocation.   
 
-### 03. Marketing Budget Optimization
-**Python · Expected Value**
-
-[Mô tả ngắn]
-
-### 04. F&B Product Innovation Analytics | Python, Statistical Analysis
+### 03. F&B Product Innovation Analytics | Python, Statistical Analysis
 
 Business problem: Investigated which recipe attributes and categories could signal stronger consumer evaluation to support F&B product development decisions.
 
@@ -100,7 +95,7 @@ Actionable recommendation: Recommended not prioritizing product development base
 
 
 
-### 05. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS | Python | Statistical Testing | Forecasting                                         
+### 04. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS | Python | Statistical Testing | Forecasting                                         
  
 Context: Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
 
@@ -110,10 +105,20 @@ Insight: Promotion days showed a $151.53 higher average sales than non-promotion
 
 Action: Used the 28.63% WAPE benchmark as a baseline for targeted pilots, including promotion-day forecast adjustments and parallel testing against current planning, while avoiding unsupported ROI or causal claims.            
 
-### 06. End-to-End ETL Pipeline
-**Python · SQL · MySQL · Data Engineering**
+### 05. HR Data ETL Pipeline: Job Change Analytics
+(Coursework project — Swiss Coding Academy Data Analytics Program)
 
-[Mô tả ngắn]
+Context: Built an end-to-end ETL pipeline consolidating ~20,000 HR enrollee records from 5 heterogeneous sources — Google
+Sheets, Excel, CSV, a MySQL database, and a web-based table — into a single SQLite database for downstream analytics.
+
+Process: Diagnosed data quality issues per source (missing values, inconsistent data types) and applied source-appropriate
+fixes — mode imputation for categorical fields without added context, and explicit placeholder categories (e.g.,
+"no_enrollment," "No Major") where a missing value carried real meaning rather than being random.
+
+Implementation: Connected to a MySQL database via SQLAlchemy/pymysql, loaded and transformed all sources with pandas,
+and refactored the load step into a reusable function across multiple tables.
+
+Output: Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis
 
 ## Analytical Approach
 
