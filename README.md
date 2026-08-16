@@ -62,6 +62,7 @@ Analysis: Tested product mix, regional effects, discounting, and customer-segmen
 Insight: 60.8% of the Q4 profit decline was traceable to a small number of large, deeply discounted transactions, including an 8–10 transaction Binders cluster accounting for 96.6% of the sub-category's decline. A customer-segment finding weakened by 54.1% after large-transaction outliers were excluded.
 
 Action: Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
+[View Project →]([https://github.com/...](https://github.com/Chuong06101997/Profitability-Improvement-Analysis-Superstore-Dataset/blob/main/readme.md)) 
 
 ### 02. Customer Churn Prediction & Profit Optimization         
 
@@ -74,6 +75,8 @@ Key Findings: Not all high-risk customers were worth retaining; profitability de
 
 Business Action: Prioritized retention for customers with positive Expected Profit, reducing projected retention costs by $7,280 while improving budget allocation.   
 
+[View Project →](https://github.com/Chuong06101997/telecom-churn-profit-optimization) 
+
 ### 03. F&B Product Innovation Analytics | Python, Statistical Analysis
 
 Business problem: Investigated which recipe attributes and categories could signal stronger consumer evaluation to support F&B product development decisions.
@@ -82,7 +85,7 @@ Analysis & key findings: Analyzed 10,000 recipes, accounting for review exposure
 
 Actionable recommendation: Recommended not prioritizing product development based on these attributes from this dataset alone, and instead validating potential opportunities with additional consumer data before investment.
 
-
+[View Project →](https://github.com/Chuong06101997/fb-rd-analytics-product-screening) 
 
 ### 04. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS                                         
  
@@ -93,6 +96,8 @@ Analysis: Formulated and tested hypotheses on promotions, seasonality, store dif
 Insight: Promotion days showed a $151.53 higher average sales than non-promotion days, with no detectable sales dip in the following 3 days. The relationship was treated as associative rather than causal.
 
 Action: Used the 28.63% WAPE benchmark as a baseline for targeted pilots, including promotion-day forecast adjustments and parallel testing against current planning, while avoiding unsupported ROI or causal claims.            
+
+[View Project →](https://github.com/Chuong06101997/Sales-Volatility-Promotion-Effectiveness-Analytics) 
 
 ### 05. HR Data ETL Pipeline: Job Change Analytics
 (Coursework project — Swiss Coding Academy Data Analytics Program)
@@ -108,6 +113,8 @@ Implementation: Connected to a MySQL database via SQLAlchemy/pymysql, loaded and
 and refactored the load step into a reusable function across multiple tables.
 
 Output: Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis.
+
+[View Project →](https://github.com/Chuong06101997/end-to-end-etl-pipeline) 
 
 ## Analytical Approach
 
@@ -128,17 +135,3 @@ Business Recommendation
 - Email: tranchuong06101997@gmail.com
 - LinkedIn: https://www.linkedin.com/in/ch%C6%B0%C6%A1ng-tr%E1%BA%A7n-9a5b54348/
 
-<!--
-**Chuong06101997/chuong06101997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
