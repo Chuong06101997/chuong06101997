@@ -118,7 +118,7 @@ fixes — mode imputation for categorical fields without added context, and expl
 Implementation: Connected to a MySQL database via SQLAlchemy/pymysql, loaded and transformed all sources with pandas,
 and refactored the load step into a reusable function across multiple tables.
 
-Output: Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis
+Output: Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis.
 
 ## Analytical Approach
 
