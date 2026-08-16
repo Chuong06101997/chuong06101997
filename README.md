@@ -81,7 +81,10 @@ Action: Built an executive-facing Power BI dashboard and recommended targeted di
 
 Business Problem: Retaining every at-risk customer can waste retention budget because customer value varies significantly.      
 
-Analysis: Estimated churn probability for 7,043 customers and integrated it with customer lifetime value and retention cost to calculate Expected Profit.                                                                                                                                                                            Key Findings: Not all high-risk customers were worth retaining; profitability depended on both churn risk and customer value.      
+Analysis: Estimated churn probability for 7,043 customers and integrated it with customer lifetime value and retention cost to calculate Expected Profit.  
+
+
+Key Findings: Not all high-risk customers were worth retaining; profitability depended on both churn risk and customer value.      
 
 Business Action: Prioritized retention for customers with positive Expected Profit, reducing projected retention costs by $7,280 while improving budget allocation.   
 
@@ -95,7 +98,7 @@ Actionable recommendation: Recommended not prioritizing product development base
 
 
 
-### 04. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS | Python | Statistical Testing | Forecasting                                         
+### 04. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS                                         
  
 Context: Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
 
