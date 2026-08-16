@@ -63,7 +63,7 @@ Insight: 60.8% of the Q4 profit decline was traceable to a small number of large
 
 Action: Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
 
-[View Project →]((https://github.com/Chuong06101997/Profitability-Improvement-Analysis-Superstore-Dataset/blob/main/readme.md)) 
+[View Project →](https://github.com/Chuong06101997/Profitability-Improvement-Analysis-Superstore-Dataset) 
 
 ### 02. Customer Churn Prediction & Profit Optimization         
 
