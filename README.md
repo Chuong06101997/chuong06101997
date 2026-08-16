@@ -90,7 +90,7 @@ Analysis & key findings: Analyzed 10,000 recipes, accounting for review exposure
 
 Actionable recommendation: Recommended not prioritizing product development based on these attributes from this dataset alone, and instead validating potential opportunities with additional consumer data before investment.
 
-[Mô tả ngắn]
+
 
 ### 05. Sales Volatility & Promotion Effectiveness
 **Python · Statistics · Forecasting**
