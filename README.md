@@ -82,8 +82,11 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 [Mô tả ngắn]
 
-### 04. F&B Product Innovation Intelligence
-**Python · Statistics · Consumer Analytics**
+### 04. F&B Product Innovation Analytics | Python, Statistical Analysis
+
+Business problem: Investigated which recipe attributes and categories could signal stronger consumer evaluation to support F&B product development decisions.
+Analysis & key findings: Analyzed 10,000 recipes, accounting for review exposure, category differences and potential confounders; found no robust evidence that category, preparation time, or nutrition attributes meaningfully differentiated consumer ratings across tested specifications.
+Actionable recommendation: Recommended not prioritizing product development based on these attributes from this dataset alone, and instead validating potential opportunities with additional consumer data before investment.
 
 [Mô tả ngắn]
 
