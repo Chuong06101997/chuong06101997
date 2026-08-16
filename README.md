@@ -88,7 +88,7 @@ Actionable recommendation: Recommended not prioritizing product development base
  
 Context: Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
 
-*Analysis:* Formulated and tested hypotheses on promotions, seasonality, store differences, and weather using appropriate non-parametric methods, followed by a transparent seasonal forecasting benchmark.
+Analysis: Formulated and tested hypotheses on promotions, seasonality, store differences, and weather using appropriate non-parametric methods, followed by a transparent seasonal forecasting benchmark.
 
 Insight: Promotion days showed a $151.53 higher average sales than non-promotion days, with no detectable sales dip in the following 3 days. The relationship was treated as associative rather than causal.
 
