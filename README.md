@@ -14,7 +14,7 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 ## Skills
 
-### Analytics
+**Analytics**
 - SQL
 - Python
 - Exploratory Data Analysis (EDA)
@@ -22,32 +22,30 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 - Business Analysis
 - Statistical Analysis
 
-### Business Intelligence
+**Business Intelligence**
 - Power BI
 - DAX
 - Data Visualization
 - Dashboard Development
 
-### Data Engineering
-- SQL
+**Data Engineering**
 - ETL / Data Transformation
 - Data Modeling
 
-### Statistics
+**Statistics**
 - Descriptive Statistics
 - Hypothesis Testing
 - Statistical Inference
 - Sampling & Bias Analysis
 
-### Machine Learning
+**Machine Learning**
 - Logistic Regression
 - Classification
 - Model Evaluation
 - Predictive Analytics
 
-### Tools
-- Excel
-- Google Sheets
+**Tools**
+- Excel / Google Sheets
 - Jupyter Notebook
 - Git / GitHub
 
