@@ -55,36 +55,38 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 ### 01. Sales Performance & Profitability Root Cause Analysis
 
-Context: Investigated a $2.3M, 9,994-row retail dataset where sales and profit increased while profit margin declined, identifying Q4-2017 vs Q4-2016 as the period driving the margin deterioration.
+** Context:**  Investigated a $2.3M, 9,994-row retail dataset where sales and profit increased while profit margin declined, identifying Q4-2017 vs Q4-2016 as the period driving the margin deterioration.
 
-Analysis: Tested product mix, regional effects, discounting, and customer-segment explanations, then stress-tested findings across transaction levels and outlier treatments.
+** Analysis:**  Tested product mix, regional effects, discounting, and customer-segment explanations, then stress-tested findings across transaction levels and outlier treatments.
 
-Insight: 60.8% of the Q4 profit decline was traceable to a small number of large, deeply discounted transactions, including an 8–10 transaction Binders cluster accounting for 96.6% of the sub-category's decline. A customer-segment finding weakened by 54.1% after large-transaction outliers were excluded.
+** Insight:**  60.8% of the Q4 profit decline was traceable to a small number of large, deeply discounted transactions, including an 8–10 transaction Binders cluster accounting for 96.6% of the sub-category's decline. A customer-segment finding weakened by 54.1% after large-transaction outliers were excluded.
 
-Action: Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
+** Action:**  Built an executive-facing Power BI dashboard and recommended targeted discount-governance and approval-process reviews, while not recommending broad product-mix changes unsupported by the data.
 
 [View Project →](https://github.com/Chuong06101997/Profitability-Improvement-Analysis-Superstore-Dataset) 
 
 ### 02. Customer Churn Prediction & Profit Optimization         
 
-Business Problem: Retaining every at-risk customer can waste retention budget because customer value varies significantly.      
+**Business Problem:**  Retaining every at-risk customer can waste retention budget because customer value varies significantly.      
 
 Analysis: Estimated churn probability for 7,043 customers and integrated it with customer lifetime value and retention cost to calculate Expected Profit.  
 
 
-Key Findings: Not all high-risk customers were worth retaining; profitability depended on both churn risk and customer value.      
+** Key Findings:**  Not all high-risk customers were worth retaining; profitability depended on both churn risk and customer value.      
 
-Business Action: Prioritized retention for customers with positive Expected Profit, reducing projected retention costs by $7,280 while improving budget allocation.   
+** Business Action:**  Prioritized retention for customers with positive Expected Profit, reducing projected retention costs by $7,280 while improving budget allocation.   
 
 [View Project →](https://github.com/Chuong06101997/telecom-churn-profit-optimization) 
 
 ### 03. F&B Product Innovation Analytics | Python, Statistical Analysis
 
-Business problem: Investigated which recipe attributes and categories could signal stronger consumer evaluation to support F&B product development decisions.
+**Business problem:** Investigated which recipe attributes and categories could signal stronger consumer evaluation to support F&B product development decisions.
 
-Analysis & key findings: Analyzed 10,000 recipes, accounting for review exposure, category differences and potential confounders; found no robust evidence that category, preparation time, or nutrition attributes meaningfully differentiated consumer ratings across tested specifications.
+**Analysis & key findings:** Analyzed 10,000 recipes, accounting for review exposure, category differences and potential confounders; found no robust evidence that category, preparation time, or nutrition attributes meaningfully differentiated consumer ratings across tested specifications.
 
-Actionable recommendation: Recommended not prioritizing product development based on these attributes from this dataset alone, and instead validating potential opportunities with additional consumer data before investment.
+**Actionable recommendation:** Recommended not prioritizing product development based on these attributes from this dataset alone, and instead validating potential opportunities with additional consumer data before investment.
+
+**Why this matters:** A false positive here would have misdirected R&D investment toward attributes that don't actually move consumer perception. Confirming the absence of a signal is what prevents that — the value of this analysis is in what it correctly ruled out, not what it found.
 
 [View Project →](https://github.com/Chuong06101997/fb-rd-analytics-product-screening) 
 
