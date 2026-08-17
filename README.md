@@ -92,30 +92,30 @@ My goal is to continuously improve the frameworks I use for analysis, reduce avo
 
 ### 04. SALES VOLATILITY & PROMOTION EFFECTIVENESS ANALYTICS                                         
  
-Context: Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
+**Context:**  Analyzed 152,460 daily transactions across 91 SKUs and 2 stores to investigate recurring demand volatility, promotion effectiveness, and planning uncertainty.
 
-Analysis: Formulated and tested hypotheses on promotions, seasonality, store differences, and weather using appropriate non-parametric methods, followed by a transparent seasonal forecasting benchmark.
+**Analysis:**  Formulated and tested hypotheses on promotions, seasonality, store differences, and weather using appropriate non-parametric methods, followed by a transparent seasonal forecasting benchmark.
 
-Insight: Promotion days showed a $151.53 higher average sales than non-promotion days, with no detectable sales dip in the following 3 days. The relationship was treated as associative rather than causal.
+**Insight:**  Promotion days showed a $151.53 higher average sales than non-promotion days, with no detectable sales dip in the following 3 days. The relationship was treated as associative rather than causal.
 
-Action: Used the 28.63% WAPE benchmark as a baseline for targeted pilots, including promotion-day forecast adjustments and parallel testing against current planning, while avoiding unsupported ROI or causal claims.            
+**Action:**  Used the 28.63% WAPE benchmark as a baseline for targeted pilots, including promotion-day forecast adjustments and parallel testing against current planning, while avoiding unsupported ROI or causal claims.            
 
 [View Project →](https://github.com/Chuong06101997/Sales-Volatility-Promotion-Effectiveness-Analytics) 
 
 ### 05. HR Data ETL Pipeline: Job Change Analytics
 (Coursework project — Swiss Coding Academy Data Analytics Program)
 
-Context: Built an end-to-end ETL pipeline consolidating ~20,000 HR enrollee records from 5 heterogeneous sources — Google
+**Context:**  Built an end-to-end ETL pipeline consolidating ~20,000 HR enrollee records from 5 heterogeneous sources — Google
 Sheets, Excel, CSV, a MySQL database, and a web-based table — into a single SQLite database for downstream analytics.
 
-Process: Diagnosed data quality issues per source (missing values, inconsistent data types) and applied source-appropriate
+**Process:**  Diagnosed data quality issues per source (missing values, inconsistent data types) and applied source-appropriate
 fixes — mode imputation for categorical fields without added context, and explicit placeholder categories (e.g.,
 "no_enrollment," "No Major") where a missing value carried real meaning rather than being random.
 
-Implementation: Connected to a MySQL database via SQLAlchemy/pymysql, loaded and transformed all sources with pandas,
+**Implementation:**  Connected to a MySQL database via SQLAlchemy/pymysql, loaded and transformed all sources with pandas,
 and refactored the load step into a reusable function across multiple tables.
 
-Output: Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis.
+**Output:**  Documented a scheduling approach (Google Colab + Apps Script trigger) for running the pipeline on a recurring basis.
 
 [View Project →](https://github.com/Chuong06101997/end-to-end-etl-pipeline) 
 
